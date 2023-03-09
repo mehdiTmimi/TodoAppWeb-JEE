@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<todos>
+   <todo>
+      <id>764778</id>
+      <title>rdv</title>
+      <completed>true</completed>
+   </todo>
+   <todo>
+      <id>441158</id>
+      <title>medecin</title>
+      <completed>false</completed>
+   </todo>
+   <todo>
+      <id>81410</id>
+      <title>exam lundi</title>
+      <completed>true</completed>
+   </todo>
+</todos>
